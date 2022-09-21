@@ -2,10 +2,17 @@
 <classpath>
 	<classpathentry kind="src" path="src/main/java"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk17">
 =======
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-17.0.4.1">
 >>>>>>> 890987e0f399d51826412eda9c81eb703b71449b
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-17.0.4.1">
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk17">
+>>>>>>> 05fe0fcd10abacfcf604731fc030a8658075a91c
+>>>>>>> beb46cb165f70318466d500e21326b99e6dfb1bf
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
